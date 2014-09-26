@@ -5,19 +5,36 @@ margin: 0 auto;
 .row-centered{
 	text-align: center;
 }
+.center{
+	text-align: center;
+}
 .row-top-margin{
 	margin-top: 20px;
-}
-.bottom-left-right-borders{
-	border-left: 1px #E6E6E6;
-	border-bottom: 1px #E6E6E6;
-	border-right: 1px #E6E6E6;
 }
 .circular-profile {
 	width: 150px;
 	height: 150px;
 	border-radius: 75px;
+	text-align: center;
 	-webkit-border-radius: 75px;
 	-moz-border-radius: 75px;
-	background: url(150px-profile.jpg) no-repeat;
+	background: url(rsz_profile.jpg) no-repeat;
+}
+.circular-skiing {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	text-align: center;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	background: url(rsz_skiing.jpg) no-repeat;
+}
+.circular-diving {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	text-align: center;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	background: url(rsz_diving.jpg) no-repeat;
 }
